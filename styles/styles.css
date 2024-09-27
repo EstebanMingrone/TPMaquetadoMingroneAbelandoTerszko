@@ -5,6 +5,11 @@
 }
 
 /*Seteos Generales*/
+@font-face {
+    font-family: 'A2 Gothic';
+    src: url(/assets/fuente/A2_Gothic/A2_Gothic/A2Gothic-SemiBold.otf);
+}
+
 h1, h2{
     font-family: 'A2 Gothic';
     font-size: 1.75rem;
